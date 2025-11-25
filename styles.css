@@ -119,3 +119,9 @@ body {
     padding: 16px;
   }
 }
+
+@media (max-width: 375px) {
+  .profile-card {
+    padding: 24px;
+  }
+}
